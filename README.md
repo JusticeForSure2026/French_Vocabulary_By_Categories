@@ -14,7 +14,6 @@ Each word has its English translation.
 | **Prepositions** | **24** |
 | **Feeling** | **42** |
 | **Personality** | **109** |
-| **Personality** | **109** |
 | **Attitude** | **23** |
 | **Adjectives** | **755** |
 | **Body Parts** | **66** |
@@ -56,7 +55,7 @@ Each word has its English translation.
 | **Nationality** | **51** |
 | **Religions** | **35** |
 
-### So far it contains 5136 words in total.
+### So far it contains 5027 words in total.
 
 # 📥 How to Use (Choose Your Option)
 

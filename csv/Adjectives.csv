@@ -4,6 +4,7 @@ absent	,	absent / absente
 absolute	,	absolu / absolue
 abstract	,	abstrait / abstraite
 absurd	,	absurde
+abundant	,	abondant / abondante
 abysmal	,	épouvantable
 adequate	,	adéquat / adéquate
 academic	,	académique
@@ -40,6 +41,7 @@ another	,	un autre / une autre
 apparent	,	apparent / apparente
 appetizing	,	appétissant / appétissante
 appropriate	,	approprié / appropriée
+arbitrary	,	arbitraire
 archaic	,	archaïque
 arduous 	,	ardu / ardue
 arid	,	aride
@@ -77,10 +79,13 @@ bright	,	brillant / brillante
 broken	,	cassé / cassée
 brutal	,	brutal / brutale
 bucolic	,	bucolique
+bulky	,	encombrant / encombrante
 bureaucratic	,	bureaucratique
+bushy	,	touffu / touffue
 bustling	,	animé / animée
-busty	,	plantureux / plantureuse
+busty	,	touffu / touffue
 busy	,	occupé / occupée
+ceremonial	,	cérémonial / cérémoniale
 certain	,	certain / certaine
 challenging	,	difficile
 charming	,	charmant / charmante
@@ -89,6 +94,7 @@ cheap	,	pas cher / pas chère
 cheerful	,	charmant / charmante
 chief	,	principal / principale
 chilly	,	froid / froide
+chipped	,	ébréché / ébréchée
 chronological	,	chronologique
 chunky	,	trapu / trapue
 cinematic	,	cinématographique
@@ -103,7 +109,9 @@ closed	,	fermé / fermée
 clumsy	,	maladroit / maladroite
 coarse	,	grossier / grossière
 coastal	,	côtier / côtière
+coated	,	enduit / enduite
 coincident	,	coïncident / coïncidente
+collateral	,	collatéral / collatérale
 colorful	,	coloré / colorée
 colorless	,	incolore
 commendable	,	louable
@@ -128,6 +136,7 @@ constant	,	constant / constante
 constructive	,	constructif / constructive
 contagious	,	contagieux / contagieuse
 contemporary	,	contemporain / contemporaine
+contingent	,	contingent / contingente
 continuous	,	continu / continue
 contradictory	,	contradictoire
 contrary	,	contraire
@@ -145,6 +154,7 @@ costly	,	coûteux / coûteuse
 crafty	,	rusé / rusée
 crazy	,	fou / folle
 creamy	,	crémeux / crémeuse
+creased	,	chiffonné / chiffonnée
 creative	,	créatif / créative
 creepy	,	sinistre
 criminal	,	criminel / criminelle
@@ -170,6 +180,7 @@ dark	,	sombre
 dazzling	,	éblouissant / éblouissante
 dead	,	mort / morte
 deaf	,	sourd / sourde
+debatable	,	discutable
 deceased	,	décédé / décédée
 decent	,	décent / décente
 deceptive	,	trompeur / trompeuse
@@ -184,14 +195,15 @@ delighted	,	ravi / ravie
 dense	,	dense
 dental	,	dentaire
 dependent	,	dépendant / dépendante
+deplorable	,	lamentable
 depressing	,	déprimant / déprimante
 derelict	,	défaillant / défaillante
 derisory	,	dérisoire
 descriptive	,	descriptif / descriptive
 detailed	,	détaillé / détaillée
 detrimental	,	préjudiciable
+deviant	,	déviant / déviante
 dexterous	,	habile
-deplorable	,	lamentable
 diaphanous	,	diaphane
 different	,	différent / différente
 difficult	,	difficile
@@ -203,6 +215,7 @@ disabled	,	handicapé / handicapée
 disappointing	,	décevant / décevante
 disastrous	,	désastreux / désastreuse
 disgusting	,	dégoûtant / dégoûtante
+disheveled	,	débraillé / débraillée
 dismal	,	lugubre
 disparaging	,	désobligeant / désobligeante
 distinct	,	distinct / distincte
@@ -226,6 +239,7 @@ effective	,	efficace
 efficient	,	efficace
 elementary	,	élémentaire
 elusive	,	insaisissable
+emerging	,	émergent / émergente(
 empirical	,	empirique
 empty	,	vide
 endangered	,	en danger
@@ -239,11 +253,15 @@ entire	,	entier / entière
 equal	,	égal / égale
 equivalent	,	équivalent / équivalente
 envious	,	envieux / envieuse
+equivocal	,	équivoque
 ergonomic	,	ergonomique
 erratic	,	erratique
+erroneous	,	erroné / erronée
+erudite	,	érudit / érudite
 essential	,	essentiel / essentielle
 ethereal	,	éthéré / éthérée
 ethical	,	éthique
+eventful	,	mouvementé / mouvementée
 everlasting	,	éternel / éternelle
 every	,	chaque
 evil	,	malfaisant / malfaisante
@@ -253,7 +271,7 @@ exceptional	,	exceptionnel / exceptionnelle
 excessive	,	excessif / excessive
 exciting	,	passionnant / passionnante
 exclusive	,	exclusif / exclusive
-exhilarating	,	jubilatoire
+exhilarating	,	exaltant / exaltante
 exorbitant	,	exorbitant / exorbitante
 exotic	,	exotique
 expensive	,	cher / chère
@@ -266,9 +284,8 @@ extraordinary	,	extraordinaire
 extreme	,	extrême
 fabulous	,	fabuleux / fabuleuse
 fair	,	équitable
-faithful	,	fidèle
 fake	,	faux / fausse
-FALSE	,	faux / fausse
+false	,	faux / fausse
 familiar	,	familier / familière
 famous	,	célèbre
 fancy	,	fantaisie
@@ -289,6 +306,7 @@ filthy	,	crasseux / crasseuse
 finished	,	fini / finie
 fiscal	,	fiscal / fiscale
 fixed	,	fixé / fixée
+flashing	,	clignotant / clignotante
 flat	,	plat / plate
 flexible	,	flexible
 fluffy	,	duveteux / duveteuse
@@ -298,6 +316,7 @@ formidable	,	redoutable
 fortuitous	,	fortuit / fortuite
 fortunate	,	chanceux / chanceuse
 fragile	,	fragile
+fragrant	,	odorant / odorante
 fraudulent	,	frauduleux / frauduleuse
 free	,	libre
 frequent	,	fréquent / fréquente
@@ -306,13 +325,15 @@ firm	,	ferme
 frozen	,	congelé / congelée
 frugal	,	frugal / frugale
 feudal	,	féodal / féodale
+frosted(glass)	,	dépoli / dépolie
 full	,	plein / pleine
 functional	,	fonctionnel / fonctionnelle
 fundamental	,	fondamental / fondamentale
 funny	,	drôle
-futile	,	futile
+futile	,	vain / vaine
 fuzzy	,	flou / floue
 gargantuan	,	gargantuesque
+garish	,	bariolé / bariolée
 general	,	général / générale
 giant	,	géant / géante
 gifted	,	doué / douée
@@ -326,6 +347,7 @@ good	,	bon / bonne
 gorgeous	,	magnifique
 grated	,	râpé / râpée
 gratuitous	,	gratuit / gratuite
+greasy	,	graisseux / graisseuse
 great	,	génial / géniale
 grilled	,	grillé / grillée
 grotesque	,	grotesque
@@ -340,13 +362,16 @@ hard	,	dur / dure
 harmful	,	nuisible / nocif / nocive
 harmless	,	inoffensif / inoffensive
 harmonious	,	harmonieux / harmonieuse
+harrowing	,	poignant / poignante
 harsh	,	dur / dure
+hasty	,	hâtif / hâtive
 haunting	,	hanté / hantée
 healthy	,	sain / saine
 hearty	,	copieux / copieuse
 heavy	,	lourd / lourde
 helpful	,	utile
 helpless	,	impuissant / impuissante
+hermetic	,	hermétique
 heroic	,	héroïque
 heterogeneous	,	hétérogène
 hidden	,	caché / cachée
@@ -369,6 +394,8 @@ hungry	,	affamé / affamée
 hurtful	,	blessant / blessante
 husky	,	rauque
 hybrid	,	hybride
+hysterical	,	hystérique
+iconic	,	iconique
 ideal	,	idéal / idéale
 identical	,	identique
 idiomatic	,	idiomatique
@@ -379,11 +406,13 @@ immersive	,	immersif / immersive
 imminent	,	imminent / imminente
 immutable	,	immuable
 impartial	,	impartial / impartiale
+impassable	,	infranchissable
 impeccable	,	impeccable
 imperative	,	impératif / impérative
 imperial	,	impérial / impériale
 impossible	,	impossible
 important	,	important / importante
+impregnable	,	imprenable
 impressed	,	impressionné / impressionnée
 impressive	,	impressionnant / impressionnante
 inappropriate	,	inapproprié / inappropriée
@@ -391,10 +420,12 @@ incapable	,	incapable
 incompatible	,	incompatible
 incompetent	,	incompétent / incompétente
 incomplete	,	lacunaire
+incorrigible	,	incorrigible
 indelible	,	indélébile
 independent	,	indépendant / indépendante
 indigenous	,	indigène
 indispensable	,	indispensable
+indisputable	,	indiscutable
 individual	,	individuel / individuelle
 industrial	,	industriel / industrielle
 ineffable	,	ineffable
@@ -410,8 +441,12 @@ inner	,	intérieur / intérieure
 innocent	,	innocent / innocente
 innovative	,	innovant / innovante
 inside	,	intérieur / intérieure
+insipid	,	insipide
+insistent	,	insistant / insistante
 intact	,	intact / intacte
+intelligible	,	intelligible
 intentional	,	intentionnel / intentionnelle
+interstellar	,	interstellaire
 intolerable	,	intolérable
 insulting	,	insultant / insultante
 intense	,	intense
@@ -420,24 +455,31 @@ intermittent	,	intermittent / intermittente
 internal	,	interne
 intriguing	,	intrigant / intrigante
 intuitive	,	intuitif / intuitive
+inveterate	,	invétéré / invétérée
 invincible	,	invincible
+inviolable	,	inviolable
 ironic	,	ironique
-jovial	,	jovial / joviale
+irreplaceable	,	irremplaçable
+irreversible	,	irréversible
 judicious	,	judicieux / judicieuse
 juicy	,	juteux / juteuse
 junior	,	junior
 kinetic	,	cinétique
 knowledgeable	,	savant / savante
+laborious	,	laborieux / laborieuse
 last	,	dernier / dernière
 late	,	tardif / tardive
 legible	,	lisible
 legit	,	légitime
 lethal	,	mortel / mortelle
 light	,	léger / légère
+literal	,	littéral / littérale
+logical	,	logique
 long	,	long / longue
 loose	,	lâche
 low	,	faible / bas / basse
 lucky	,	chanceux / chanceuse
+macabre	,	macabre
 magnificent	,	magnifique
 main	,	principal / principale
 majestic	,	majestueux / majestueuse
@@ -454,18 +496,24 @@ mean	,	méchant / méchante
 meaningful	,	significatif / significative
 medieval	,	médiéval / médiévale
 medium	,	moyen / moyenne
+melodious	,	mélodieux / mélodieuse
 mental	,	mental / mentale
 messy	,	désordonné / désordonnée
+methodical	,	méthodique
 militant	,	militant / militante
 miscellaneous	,	divers / diverse
 miserable	,	misérable
+misunderstood	,	incompris
 mixed	,	mixte
 modern	,	moderne
 monetary	,	monétaire
 monotonous	,	monotone
 monstrous	,	monstrueux / monstrueuse
 monthly	,	mensuel / mensuelle
+moribund	,	moribond / moribonde
+muddy	,	boueux / boueuse
 multiple	,	plusieurs
+murky	,	trouble
 mutual	,	mutuel / mutuelle
 mysterious	,	mystérieux / mystérieuse
 mythomaniac	,	mythomane
@@ -474,6 +522,7 @@ narrow	,	étroit / étroite
 nasty	,	méchant / méchante
 native	,	natif / native
 natural	,	naturel / naturelle
+nautical	,	nautique
 nebulous	,	nébuleux / nébuleuse
 necessary	,	nécessaire
 negative	,	négatif / négative
@@ -484,15 +533,19 @@ nice	,	gentil / gentille
 noisy	,	bruyant / bruyante
 normal	,	normal / normale
 nostalgic	,	nostalgique
+nourishing	,	nourrissant / nourrissante
 numerous	,	nombreux / nombreuse
+nutritional	,	nutritif / nutritive
 objective	,	objectif / objective
 obnoxious	,	odieux / odieuse
 obscene	,	obscène
 obsessed	,	obsédé / obsédée
 obsolete	,	obsolète
+occasional	,	occasionnel / occasionnelle
 obvious	,	évident / évidente
 offensive	,	offensif / offensive
 off-putting	,	rébarbatif / rébarbative
+oily	,	huileux / huileuse
 old	,	vieux / vieil / vieille
 old-fashioned	,	démodé
 ominous	,	sinistre
@@ -511,11 +564,13 @@ overwhelming	,	accablant / accablante
 own	,	propre
 paid	,	payant / payante / rémunéré / rémunérée
 painful	,	pénible / douloureux / douloureuse
+painless	,	indolore
 parallel	,	parallèle
 paralyzed	,	paralysé / paralysée
 paranormal	,	paranormal / paranormale
 partial	,	partiel / partielle
 particular	,	particulier / particulière
+patented	,	breveté / brevetée
 pathetic	,	pathétique
 peaceful	,	pacifique
 pelagic	,	pélagique
@@ -541,8 +596,10 @@ powerful	,	puissant / puissante
 precarious	,	précaire
 precise	,	précis / précise
 precocious	,	précoce
+predestined	,	prédestiné / prédestinée
 pregnant	,	enceinte
 preliminary	,	préliminaire
+presentable	,	présentable
 prestigious	,	prestigieux / prestigieuse
 pretty	,	joli / jolie
 prevalent	,	répandu / répandue
@@ -550,6 +607,8 @@ previous	,	précédent / précédente
 priceless	,	inestimable
 primitive	,	primitif / primitive
 private	,	privé / privée
+probationary	,	stagiaire
+prodigious	,	prodigieux / prodigieuse
 productive	,	productif / productive
 professional	,	professionnel / professionnelle
 profitable	,	rentable
@@ -562,14 +621,17 @@ quick	,	vite
 quiet	,	tranquille
 quintessential	,	quintessentiel / quintessentielle
 radical	,	radical / radicale
+ragged	,	déguenillé / déguenillée
 random	,	aléatoire
 rare	,	rare
 raw	,	cru / crue
 ready	,	prêt / prête
 real	,	réel / réelle
 realistic	,	réaliste
+reciprocal	,	réciproque
 recyclable	,	recyclable
 redundant	,	redondant / redondante
+refreshing	,	rafraîchissant / rafraîchissante
 regular	,	régulier / régulière
 relative	,	relatif / relative
 relaxing	,	relaxant / relaxante
@@ -598,6 +660,7 @@ round	,	rond / ronde
 rural	,	rural / rurale
 sacred	,	sacré / sacrée
 safe	,	sécurisé / sécurisée
+salutary	,	salutaire
 sanitary	,	sanitaire
 sarcastic	,	sarcastique
 satisfied	,	satisfait / satisfaite
@@ -606,6 +669,7 @@ scary	,	effrayant / effrayante
 secret	,	secret / secrète
 seductive	,	séduisant / séduisante
 semantic	,	sémantique
+senile	,	sénile
 senior	,	senior
 sensitive	,	sensible
 serene	,	serein / sereine
@@ -620,6 +684,7 @@ short	,	court / courte
 sibylline	,	sibyllin / sibylline
 significant	,	significatif / significative
 silent	,	silencieux / silencieuse
+silky	,	soyeux / soyeuse
 single	,	célibataire
 similar	,	similaire
 simple	,	simple
@@ -635,6 +700,7 @@ smelly	,	malodorant / malodorante
 smoked	,	fumé / fumée
 smooth	,	lisse
 sneaky	,	sournois / sournoise
+soaked	,	trempé / trempée
 sober	,	sobre
 social	,	social / sociale
 soft	,	doux / douce
@@ -650,6 +716,9 @@ special	,	spécial / spéciale
 spectacular	,	spectaculaire
 spiteful	,	fielleux / fielleuse
 spontaneous	,	spontané / spontanée
+stainless	,	inoxydable
+static	,	statique
+stationary	,	stationnaire
 statutory	,	statutaire
 steep	,	raide
 straight	,	droit / droite
@@ -669,7 +738,10 @@ subjective	,	subjectif / subjective
 substantial	,	substantiel / substantielle
 subtle	,	subtil / subtile
 subtropical	,	subtropical / subtropicale
+subversive	,	subversif / subversive
 successful	,	réussi / réussie
+succulent	,	succulent / succulente
+sudden	,	soudain / soudaine
 sufficient	,	suffisant / suffisante
 suitable	,	convenable
 sumptuous	,	somptueux / somptueuse
@@ -681,9 +753,12 @@ surplus	,	excédentaire
 susceptible	,	susceptible
 sustainable	,	durable
 symmetric	,	symétrique
+tacit	,	tacite
 tall	,	grand / grande
 tangible	,	tangible
 tasty	,	savoureux / savoureuse
+tear-inducing	,	lacrymogène
+tedious	,	fastidieux / fastidieuse
 temporary	,	temporaire
 tense	,	tendu / tendue
 terrible	,	terrible
@@ -696,6 +771,8 @@ thorny	,	épineux / épineuse
 thrifty	,	économe
 tight	,	serré / serrée
 time-consuming	,	chronophage
+tonic	,	tonique
+tousled	,	ébouriffé / ébouriffée
 toxic	,	vénéneux / vénéneuse
 tragic	,	tragique
 transparent	,	transparent / transparente
@@ -703,22 +780,29 @@ transversal	,	transversal / transversale
 tremendous	,	formidable
 tricky	,	épineux / épineuse
 triumphant	,	triomphant / triomphante
+trivial	,	anodin / anodine
 trophic	,	trophique
 tropical	,	tropical / tropicale
+turbulent	,	turbulent / turbulente
 typical	,	typique
 ugly	,	laid / laide
 unacceptable	,	inacceptable
+unachievable	,	irréalisable
 unbelievable	,	incroyable
 undeniable	,	indéniable
 understandable	,	compréhensible
 unexpected	,	inattendu / inattendue
 unfair	,	injuste
 unforgettable	,	inoubliable
+unforgivable	,	inexcusable
+unharmed	,	indemne
 unique	,	unique
 universal	,	universel / universelle
 unjustified	,	injustifié / injustifiée
 unknown	,	inconnu / inconnue
 unpredictable	,	imprévisible
+unrecognizable	,	méconnaissable
+unsoundable	,	insondable
 unstable	,	instable
 unsuspected	,	insoupçonné / insoupçonnée
 upper	,	supérieur / supérieure
@@ -734,21 +818,25 @@ verbose	,	prolixe
 vernacular	,	vernaculaire
 versatile	,	polyvalent / polyvalente
 vertical	,	vertical / verticale
+viable	,	viable
 vicious	,	vicieux / vicieuse
 violent	,	violent / violente
 viral	,	viral / virale
 virtual	,	virtuel / virtuelle
 viscous	,	visqueux / visqueuse
 vital	,	vital / vitale
+voracious	,	vorace
 vulnerable	,	vulnérable
 weak	,	faible
 weekly	,	hebdomadaire
 weird	,	bizarre
+well-known	,	notoire
 western	,	occidental / occidentale
 wet	,	mouillé / mouillée
 wide	,	large
 widespread	,	répandu / répandue
 wild	,	sauvage
+winding	,	sinueux / sinueuse
 wonderful	,	merveilleux / merveilleuse
 worthy	,	digne
 yearly	,	annuel / annuelle

@@ -1,11 +1,16 @@
 ﻿truce	,	la	,	trêve
 corporal	,		,	corporel / corporelle
+sub-lieutenant	,	le	,	sous-lieutenant
 brigadier	,	le	,	brigadier
+commodore	,	le	,	commodore
 admiral	,	le	,	amiral
 marshal	,	le	,	maréchal
+quartermaster	,	le	,	quartier-maître
 infantry	,	la	,	infanterie
 musketeer	,	le	,	mousquetaire
+gunner	,	le	,	artilleur
 artillery	,	la	,	artillerie
+veteran	,	le	,	vétéran
 deserter	,	le	,	déserteur
 mutiny	,	la	,	mutinerie
 garrison	,	la	,	garnison
@@ -19,3 +24,6 @@ ammunition	,	la	,	munition
 arsenal	,	le	,	arsenal
 fleet	,	la	,	flotte
 cruiser	,	le	,	croiseur
+armistice	,	le	,	armistice
+First World War	,	la	,	Première Guerre Mondiale
+Second World War	,	la	,	Deuxième Guerre Mondiale

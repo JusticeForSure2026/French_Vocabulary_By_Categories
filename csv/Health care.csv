@@ -15,10 +15,12 @@ heroin	,	la	,	héroïne
 morphine	,	la	,	morphine
 stretcher	,	la	,	civière
 therapy	,	la	,	thérapie
+remission	,	la	,	rémission
 syringe	,	la	,	seringue
 gauze	,	la	,	gaze
 infirmary	,	la	,	infirmerie
 surgery	,	la	,	chirurgie
+scalpel	,	le	,	scalpel
 pregnancy	,	la	,	grossesse
 scar	,	la	,	cicatrice
 wound	,	la	,	plaie
@@ -29,22 +31,30 @@ obesity	,	la	,	obésité
 appetite	,	le	,	appétit
 satiety	,	la	,	satiété
 diarrhea	,	la	,	diarrhée
+indisposed	,		,	indisposé / indisposée
 cough	,	la	,	toux
 cold	,	le	,	rhume
 flu	,	la	,	grippe
 lethargy	,	la	,	léthargie
+insomnia	,	la	,	insomnie
 dizziness	,	le	,	vertige
 headache	,	le	,	mal de tête
 migraine	,	la	,	migraine
 palpitation	,	la	,	palpitation
 nausea	,	la	,	nausée
 itching	,	la	,	démangeaison
+colic	,	la	,	colique
 scabies	,	la	,	gale
 mania	,	la	,	manie
+swelling	,	la	,	enflure
 bruise	,	la	,	contusion
+laceration	,	la	,	lacération
+drowning	,	la	,	noyade
 muscle atrophy	,	la	,	atrophie musculaire
 fracture	,	la	,	fracture
-insomnia	,	la	,	insomnie
+anemia	,	la	,	anémie
+clot	,	le	,	caillot
+cholera	,	le	,	choléra
 parasite	,	le	,	parasite
 bacteria	,	la	,	bactérie
 virus	,	le	,	virus

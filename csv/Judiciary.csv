@@ -16,12 +16,15 @@ depreciation	,	le	,	amortissement
 receipt	,	la	,	quittance
 balance	,	le	,	reliquat
 alienate	,		,	aliéner
+allowance	,	la	,	allocation
+guardianship	,	la	,	tutelle
 plaintiff	,		,	demandeur / demanderesse
 defendant	,		,	défendeur / défenderesse
 prosecution	,	le	,	parquet
 accused	,	le	,	prévenu
 notary	,	le	,	notaire
 arbitrator	,	le / la	,	arbitre
+beneficial	,	le / la	,	bénéficiaire
 jury	,	le	,	jury
 magistrate	,	le	,	magistrat
 bailiff	,	le	,	huissier
@@ -31,9 +34,11 @@ professional ethics	,	la	,	déontologie
 secularism	,	la	,	laïcité
 kidnapping	,	le	,	enlèvement
 ransom	,	la	,	rançon
+ultimatum	,	le	,	ultimatum
 alibi	,	le	,	alibi
 premeditation	,	la	,	préméditation
 murder	,	le	,	homicide
+corpse	,	le	,	cadavre
 offense	,	le	,	délit
 administrative detention	,	la	,	rétention administrative
 crime	,	le	,	forfait
@@ -44,6 +49,7 @@ torment	,	le	,	supplice
 reprieve	,	le	,	sursis
 remission of sentence	,	la	,	remise de peine
 captive	,		,	captif / captive
+sequestration	,	la	,	séquestration
 acquittal	,	le	,	acquittement
-recidivism	,	la	,	récidive
+récidiviste	,	le / la	,	repeat offender
 exile	,	le	,	exil

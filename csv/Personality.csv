@@ -5,6 +5,7 @@ apathetic	,	apathique
 ardent	,	ardent / ardente
 audacious	,	audacieux / audacieuse
 austere	,	austère
+bashful	,	pudique
 benevolent	,	bienveillant / bienveillante
 brave	,	courageux / courageuse
 candid	,	candide
@@ -13,18 +14,22 @@ careful	,	prudent / prudente
 careless	,	négligent / négligente
 casual	,	décontracté / décontractée
 cautious	,	prudent / prudente
+charismatic	,	charismatique
 clever	,	intelligent / intelligente
 compliant	,	complaisant / complaisante
 conscious	,	conscient / consciente
 considerate	,	prévenant / prévenante
 courteous	,	courtois / courtoise
 cunning	,	rusé / rusée
+delicate	,	délicat / délicate
 despicable	,	méprisable
 diligent	,	diligent / diligente
 discrete	,	discret / discrète
 dishonest	,	malhonnête
 disloyal	,	déloyal / déloyale
 disrespectful	,	irrespectueux / irrespectueuse
+effeminate	,	efféminé / efféminée
+effusive	,	expansif / expansive
 egotistical	,	égocentrique
 elegant	,	élégant / élégante
 eloquent	,	disert / diserte
@@ -44,6 +49,7 @@ hypocritical	,	hypocrite
 idiosyncratic	,	idiosyncratique
 ignoble	,	ignoble
 indecisive	,	indécis / indécise
+indefatigable	,	infatigable
 indiscret	,	indiscret / indiscrète
 inhibited	,	inhibé / inhibée
 insidious	,	insidieux / insidieuse
@@ -51,15 +57,19 @@ introvert	,	introverti / introvertie
 irresponsible	,	irresponsable
 irritable	,	irritable
 jealous	,	jaloux / jalouse
+jovial	,	jovial / joviale
 kind	,	gentil / gentille
 lazy	,	paresseux / paresseuse
 lenient	,	indulgent / indulgente
+lucid	,	lucide
 malevolent	,	malveillant / malveillante
 malicious	,	malicieux / malicieuse
 materialistic	,	matérialiste
 mercenary	,	mercenaire
+merciful	,	miséricordieux / miséricordieuse
 meticulous	,	méticuleux / méticuleuse
 modest	,	modeste
+moody	,	lunatique
 naive	,	naïf / naïve
 narcissistic	,	narcissique
 narrow-minded	,	borné / bornée
@@ -71,11 +81,17 @@ paranoid	,	paranoïaque
 pedantic	,	pédant / pédante
 perfidious	,	perfide
 pessimistic	,	pessimiste
+phlegmatic	,	flegmatique
 picky	,	pointilleux / pointilleuse
 pious	,	pieux / pieuse
+placid	,	placide
 pompous	,	pompeux / pompeuse
+pragmatic	,	pragmatique
+presumptuous	,	présomptueux / présomptueuse
 pretentious	,	prétentieux / prétentieuse
 quarrelsome	,	querelleur / querelleuse
+rebellious	,	rebelle
+receptive	,	réceptif / réceptive
 reckless	,	téméraire
 resourceful	,	débrouillard / débrouillarde
 respectful	,	respectueux / respectueuse
@@ -83,27 +99,32 @@ responsible	,	responsable
 rigid	,	rigide
 rude	,	grossier / grossière
 ruthless	,	impitoyable
+sagacious	,	sagace
 scrupulous	,	scrupuleux / scrupuleuse
 selfish	,	égoïste
 shameless	,	éhonté / éhontée
 sincere	,	sincère
 stingy	,	avare
 stubborn	,	têtu / têtue
+suave	,	suave
 supercilious	,	arrogant / arrogante
 suspicious	,	méfiant / méfiante
 taciturn	,	taciturne
 talented	,	talentueux / talentueuse
 tenacious	,	tenace
+thoughtful	,	attentionné / attentionnée
 timid	,	timide
 truculent	,	truculent
 unbridled	,	débridé / débridée
+unfaithful	,	infidèle
 ungrateful	,	ingrat / ingrate
 unreasonable	,	déraisonnable
 unruly	,	indiscipliné / indisciplinée
 vain	,	vaniteux / vaniteuse
 valiant	,	vaillant / vaillante
-virtuous	,	vertueux / vertueuse
 vigilant	,	vigilant / vigilante
+vindictive	,	rancunier / rancunière
+virtuous	,	vertueux / vertueuse
 voluble	,	volubile
 vulgar	,	vulgaire
 xenophilic	,	xénophile

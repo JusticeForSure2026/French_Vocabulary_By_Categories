@@ -2,7 +2,7 @@
 flute	,	la	,	flûte
 harmonica	,	le	,	harmonica
 trumpet	,	la	,	trompette
-horn	,	le	,	cor d'harmonie
+horn	,	le	,	cor d’harmonie
 saxophone	,	le	,	saxophone
 violin	,	le	,	violon
 viola	,	le	,	alto
@@ -12,5 +12,6 @@ guitar	,	la	,	guitare
 piano	,	le	,	piano
 triangle	,	le	,	triangle
 carillon	,	le	,	carillon
+tambourine	,	le	,	tambourin
 timpani	,	la	,	timbales
 drum	,	le	,	tambour

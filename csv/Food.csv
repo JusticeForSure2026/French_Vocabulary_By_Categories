@@ -1,6 +1,8 @@
-﻿breakfast	,	le	,	petit déjeuner
+﻿delicacy	,	la	,	gourmandise
+breakfast	,	le	,	petit déjeuner
 lunch	,	le	,	déjeuner
 dinner	,	le	,	dîner
+snack	,	le	,	en-cas
 dessert	,	le	,	dessert
 buffet	,	le	,	buffet
 flour	,	la	,	farine
@@ -8,6 +10,7 @@ oil	,	la	,	huile
 sauce	,	la	,	sauce
 soy sauce	,	la	,	sauce soja
 vinegar	,	le	,	vinaigre
+condiment	,	le	,	condiment
 spice	,	la	,	épice
 cumin	,	le	,	cumin
 curcuma	,	le	,	curcuma
@@ -38,6 +41,7 @@ steak	,	le	,	bifteck
 beef	,	le	,	boeuf
 pork	,	le	,	porc
 mutton	,	le	,	mouton
+skewer	,	la	,	brochette
 bread	,	le	,	pain
 wheat	,	le	,	blé
 cereal	,	la	,	céréale
@@ -60,12 +64,12 @@ ravioli	,	le	,	ravioli
 soup	,	la	,	soupe
 salad	,	la	,	salade
 pickle	,	le	,	cornichon
-peanut butter	,	le	,	beurre d'arachide
+peanut butter	,	le	,	beurre d’arachide
 mayonnaise	,	la	,	mayonnaise
 jam	,	la	,	confiture
 jelly	,	la	,	gelée
 chocolate	,	le	,	chocolat
-popsicle	,	la	,	glace à l'eau
+popsicle	,	la	,	glace à l’eau
 ice cream bar	,	le	,	esquimau
 cone	,	le	,	cornet
 ice cream	,	la	,	glace

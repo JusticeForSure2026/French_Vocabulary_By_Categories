@@ -7,55 +7,55 @@ Each word has its English translation.
 
 | Category | Words |
 | :--- | :--- |
-| **Nouns** | **912** |
-| **Verbs** | **1459** |
+| **Nouns** | **940** |
+| **Verbs** | **1476** |
 | **Adverbs** | **104** |
 | **Position** | **32** |
 | **Prepositions** | **24** |
-| **Feeling** | **42** |
-| **Personality** | **109** |
-| **Attitude** | **23** |
-| **Adjectives** | **755** |
-| **Body Parts** | **66** |
-| **Health care** | **51** |
+| **Feeling** | **46** |
+| **Personality** | **130** |
+| **Attitude** | **25** |
+| **Adjectives** | **843** |
+| **Body Parts** | **67** |
+| **Health care** | **61** |
 | **Medicine** | **7** |
-| **Academic** | **131** |
-| **Chemistry** | **31** |
+| **Academic** | **139** |
+| **Chemistry** | **34** |
 | **Units** | **32** |
-| **Computer Words** | **46** |
-| **Royal** | **29** |
-| **Military** | **21** |
-| **Weapons** | **34** |
-| **Politics** | **24** |
-| **Judiciary** | **49** |
+| **Computer Words** | **47** |
+| **Royal** | **30** |
+| **Military** | **29** |
+| **Weapons** | **35** |
+| **Politics** | **27** |
+| **Judiciary** | **55** |
 | **Bank** | **13** |
 | **Office** | **24** |
-| **Jobs** | **119** |
-| **Musical Instrument** | **16** |
+| **Jobs** | **130** |
+| **Musical Instrument** | **17** |
 | **Colors** | **12** |
-| **Food** | **71** |
-| **Drink** | **13** |
+| **Food** | **75** |
+| **Drink** | **17** |
 | **Vegetable** | **28** |
 | **Fruits** | **19** |
 | **Nutrition** | **7** |
-| **Environment** | **78** |
+| **Environment** | **83** |
 | **Disasters** | **18** |
-| **Animals** | **121** |
+| **Animals** | **130** |
 | **Ocean Creatures** | **31** |
-| **Insects** | **18** |
+| **Insects** | **21** |
 | **Plants** | **29** |
-| **Clothes** | **26** |
-| **Clothing Accessories** | **26** |
-| **House** | **89** |
+| **Clothes** | **37** |
+| **Clothing Accessories** | **31** |
+| **House** | **94** |
 | **Kitchen** | **27** |
-| **Home Tools** | **33** |
-| **Buildings** | **64** |
+| **Home Tools** | **35** |
+| **Buildings** | **72** |
 | **Transportation** | **29** |
 | **Countries** | **49** |
 | **Nationality** | **51** |
-| **Religions** | **35** |
+| **Religions** | **40** |
 
-### So far it contains 5027 words in total.
+### So far it contains 5465 words in total.
 
 # 📥 How to Use (Choose Your Option)
 

@@ -14,6 +14,7 @@ gun	,	la	,	arme à feu
 pistol	,	le	,	pistolet
 rifle	,	le	,	fusil
 shotgun	,	le	,	fusil à pompe
+machine gun	,	la	,	mitrailleuse
 sniper rifle	,	le	,	fusil de précision
 canon	,	le	,	canon
 tank	,	le	,	char
@@ -22,6 +23,7 @@ bomb	,	la	,	bombe
 dynamite	,	la	,	dynamiter
 grenade	,	la	,	grenade
 landmine	,	la	,	mine terrestre
+missile	,	le	,	missile
 rocket	,	la	,	fusée
 nuclear bomb	,	la	,	bombe nucléaire
 radar	,	le	,	radar
@@ -29,6 +31,5 @@ satellite	,	le	,	satellite
 harpoon	,	le	,	harpon
 torpedo	,	la	,	torpille
 submarine	,	le	,	sous-marin
+battleship	,	le	,	cuirassé
 aircraft carrier	,	le	,	porte-avions
-First World War	,	la	,	Première Guerre Mondiale
-Second World War	,	la	,	Deuxième Guerre Mondiale

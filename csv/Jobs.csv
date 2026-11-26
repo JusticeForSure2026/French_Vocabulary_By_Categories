@@ -3,6 +3,7 @@ worker	,		,	ouvrier / ouvrière
 employee	,		,	employé / employée
 employer	,		,	employeur / employeuse
 street pedlar	,	le	,	camelot
+cobbler	,	le	,	cordonnier
 cleaner	,		,	nettoyeur / nettoyeuse
 plumber	,		,	plombier / plombière
 electrician	,		,	électricien / électricienne
@@ -13,13 +14,17 @@ shepherd	,		,	berger / bergère
 carpenter	,		,	charpentier / charpentière
 blacksmith	,		,	forgeron / forgeronne
 hairdresser	,		,	coiffeur / coiffeuse
+manicurist	,	la	,	manucure
 tailor	,		,	tailleur / tailleuse
 producer	,		,	producteur / productrice
 manufacturer	,		,	fabricant / fabricante
 mechanic	,		,	mécanicien / mécanicienne
 landlord	,	le / la	,	propriétaire
+massager	,		,	masseur / masseuse
 therapist	,	le / la	,	thérapeute
 nutritionist	,	le / la	,	nutritionniste
+ambulance man / woman	,		,	ambulancier / ambulancière
+anesthetist	,	le / la	,	anesthésiste
 surgeon	,		,	chirurgien / chirurgienne
 doctor	,		,	docteur / docteure
 nurse	,		,	infirmier / infirmière
@@ -60,10 +65,13 @@ designer	,		,	concepteur / conceptrice
 pharmacist	,		,	pharmacien / pharmacienne
 dentist	,	le / la	,	dentiste
 scientist	,	le / la	,	scientifique
+geologist	,	le / la	,	géologue
 historian	,		,	historien / historienne
 archaeologist	,	le / la	,	archéologue
 paleontologist	,	le / la	,	paléontologue
 researcher	,		,	chercheur / chercheuse
+antiquer	,	le / la	,	antiquaire
+librarian	,	le / la	,	bibliothécaire
 student	,		,	étudiant / étudiante
 teacher	,		,	enseignant / enseignante
 instructor	,		,	instructeur / instructrice
@@ -71,6 +79,7 @@ driver	,		,	conducteur / conductrice
 pilot	,	le / la	,	pilote
 postman	,		,	facteur / factrice
 waiter / waitress	,		,	serveur / serveuse
+bartender	,	le	,	barman
 cook	,		,	cuisinier / cuisinière
 chef	,	le / la	,	chef
 gourmet	,	le / la	,	gourmet
@@ -106,6 +115,7 @@ hunter	,		,	chasseur / chasseuse
 vagabond	,		,	vagabond / vagabonde
 hooligan	,	le	,	hooligan
 scoundrel	,	la	,	canaille
+gambler	,	le	,	parieur
 thief	,		,	voleur / voleuse
 burglar	,		,	cambrioleur / cambrioleuse
 robber	,	le	,	braqueur
@@ -117,3 +127,4 @@ poacher	,	le	,	braconnier
 sailor	,	le	,	matelot
 captain	,	le	,	capitaine
 pirate	,	le	,	pirate
+privateer	,	le	,	corsaire

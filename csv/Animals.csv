@@ -46,6 +46,7 @@ wolf	,		,	loup / louve
 coyote	,	le	,	coyote
 fox	,		,	renard / renarde
 badger	,	le	,	blaireau
+weasel	,	la	,	belette
 otter	,	la	,	loutre
 bear	,		,	ours / ourse
 polar bear	,		,	ours polaire
@@ -81,12 +82,18 @@ hippopotamus	,	le	,	hippopotame
 amphibian	,	le	,	amphibie
 tadpole	,	le	,	têtard
 frog	,	la	,	grenouille
+salamander	,	la	,	salamandre
 annelid	,	le	,	annélide
 earthworm	,	le	,	ver de terre
 leech	,	la	,	sangsue
+mollusc	,	le	,	mollusque
+snail	,	le	,	escargot
+slug	,	la	,	limace
 fish	,	le	,	poisson
 carp	,	la	,	carpe
 perch	,	la	,	perche
+crustacean	,	le	,	crustacé
+crayfish	,	la	,	écrevisse
 bird	,	le	,	oiseau
 poultry	,	la	,	volaille
 chicken	,		,	poulet / poulette
@@ -97,8 +104,10 @@ sparrow	,	le	,	moineau
 pigeon	,	le	,	pigeon
 swallow	,	la	,	hirondelle
 parrot	,	le	,	perroquet
+hummingbird	,	le	,	colibri
 kingfisher	,	le	,	martin-pêcheur
 seagull	,	la	,	mouette
+albatross	,	le	,	albatros
 swan	,	le	,	cygne
 cormorant	,	le	,	cormoran
 pelican	,	le	,	pélican

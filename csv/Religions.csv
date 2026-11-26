@@ -5,6 +5,7 @@ Judaism	,	le	,	Judaïsme
 Islam	,	le	,	Islam
 Hinduism	,	le	,	Hindouisme
 Buddhism	,	le	,	Bouddhisme
+atheism	,	le	,	athéisme
 temple	,	le	,	temple
 mosque	,	la	,	mosquée
 church	,	la	,	église
@@ -15,8 +16,11 @@ Bible	,	la	,	Bible
 revelation	,	la	,	révélation
 sermon	,	le	,	sermon
 savior	,	le	,	sauveur
+messiah	,	le	,	messie
 nun	,	la	,	nonne
 abbot	,	le	,	abbé
+preacher	,		,	prédicateur / prédicatrice
+missionary	,	le / la	,	missionnaire
 cleric	,	le	,	clerc
 godparent	,		,	parrain / marraine
 priest	,		,	prêtre / prêtresse
@@ -30,6 +34,7 @@ pilgrim	,	le	,	pèlerin
 martyr	,		,	martyr / martyre
 altar	,	le	,	autel
 coffin	,	le	,	cercueil
+sepulture	,	la	,	sépulture
 heretical	,	le / la	,	hérétique
 monk	,		,	moine / nonne
 lama	,	le	,	lama

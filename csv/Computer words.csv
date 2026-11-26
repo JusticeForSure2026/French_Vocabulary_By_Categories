@@ -2,7 +2,8 @@
 keyboard	,	le	,	clavier
 mouse	,	la	,	souris
 button	,	le	,	bouton
-headphones	,	le	,	casque audio
+earphone	,	la	,	oreillette
+headphone	,	le	,	casque audio
 cable	,	le	,	câble
 chip	,	la	,	puce
 disk	,	le	,	disque

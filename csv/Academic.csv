@@ -45,7 +45,9 @@ chorus	,	le	,	chœur
 hair style	,	la	,	coiffure
 cell	,	la	,	cellule
 gene	,	le	,	gène
+funnel	,	le	,	entonnoir
 thermometer	,	le	,	thermomètre
+barometer	,	le	,	baromètre
 calculator	,	la	,	calculatrice
 times	,		,	fois
 divide	,		,	diviser
@@ -69,16 +71,18 @@ sphere	,	la	,	sphère
 cone	,	le	,	cône
 equation	,	la	,	équation
 formula	,	la	,	formule
+circumference	,	la	,	circonférence
 perimeter	,	le	,	périmètre
+parabola	,	la	,	parabole
 threshold	,	le	,	seuil
 margin	,	la	,	marge
 comma	,	la	,	virgule
 colon	,	le	,	côlon
 semicolon	,	le	,	point-virgule
 hyphen	,	le	,	tiret
-exclamation mark	,	le	,	point d'exclamation
+exclamation mark	,	le	,	point d’exclamation
 quotation mark	,	le	,	guillemet
-question mark	,	le	,	point d'interrogation
+question mark	,	le	,	point d’interrogation
 bracket	,	la	,	équerre
 vocabulary	,	le	,	vocabulaire
 sentence	,	la	,	phrase
@@ -86,10 +90,11 @@ paragraph	,	le	,	paragraphe
 article	,	le	,	article
 grammar	,	la	,	grammaire
 homework	,	le	,	devoir
+encyclopedia	,	la	,	encyclopédie
 heritage	,	le	,	patrimoine
 vestige	,	le	,	vestige
 fresco	,	la	,	fresque
-artwork	,	la	,	œuvre d'art
+artwork	,	la	,	œuvre d’art
 plaster	,	le	,	plâtre
 sculpture	,	la	,	sculpture
 reading	,	la	,	lecture
@@ -105,6 +110,8 @@ rubber	,	la	,	gomme
 crayon	,	le	,	crayon de couleur
 paint brush	,	le	,	pinceau
 palette	,	la	,	palette
+stapler	,	la	,	agrafeuse
+staple	,	la	,	agrafe
 cartridge	,	la	,	cartouche
 ruler	,	la	,	règle
 lesson	,	la	,	leçon
@@ -124,8 +131,9 @@ diploma	,	le	,	diplôme
 baccalaureate	,	le	,	baccalauréat
 master	,	la	,	maîtrise
 doctoral	,	le	,	doctorat
-scholarship	,	la	,	bourse d'études
+scholarship	,	la	,	bourse d’études
 campus	,	le	,	campus
 laboratory	,	le	,	laboratoire
 classroom	,	la	,	salle de cours
+school desk	,	le	,	pupitre
 classmate	,	le / la	,	camarade de classe

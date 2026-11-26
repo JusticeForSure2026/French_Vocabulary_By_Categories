@@ -1,15 +1,18 @@
 ﻿cap	,	la	,	casquette
 hat	,	le	,	chapeau
+turban	,	le	,	turban
 wig	,	la	,	perruque
 tie	,	la	,	cravate
 belt	,	la	,	ceinture
 scarf	,	la	,	écharpe
 glove	,	le	,	gant
+fingerless glove	,	la	,	mitaine
 necklace	,	le	,	collier
-earring	,	la	,	boucle d'oreille
+earring	,	la	,	boucle d’oreille
 bracelet	,	le	,	bracelet
 ring	,	le	,	anneau
 brooch	,	la	,	broche
+pendant	,	le	,	pendentif
 jewelry	,	le	,	bijou
 perfume	,	le	,	parfum
 makeup	,	le	,	maquillage
@@ -22,5 +25,7 @@ lifebuoy	,	la	,	bouée de sauvetage
 umbrella	,	le	,	parapluie
 wallet	,	le	,	portefeuille
 purse	,	la	,	bourse
+briefcase	,	la	,	mallette
+satchel	,	le	,	cartable
 backpack	,	le	,	sac à dos
 suitcase	,	la	,	valise

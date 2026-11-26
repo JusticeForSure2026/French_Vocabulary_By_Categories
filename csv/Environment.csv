@@ -55,10 +55,13 @@ pond	,	le	,	étang
 brook	,	le	,	ruisseau
 ditch	,	la	,	fossé
 river	,	la	,	rivière
+tributary	,	le	,	affluent
 lake	,	le	,	lac
 waterfall	,	la	,	cascade / chute
 whirlwind	,	le	,	tourbillon
 island	,	la	,	île
+peninsula	,	la	,	péninsule
+archipelago	,	le	,	archipel
 strait	,	le	,	détroit
 bay	,	la	,	baie
 shore	,	le	,	rivage
@@ -66,7 +69,9 @@ coast	,	la	,	côte
 beach	,	la	,	plage
 sea	,	la	,	mer
 wave	,	la	,	vague
+foam	,	la	,	mousse
 tide	,	la	,	marée
+ebb	,	le	,	reflux
 ocean	,	le	,	océan
 abyss	,	le	,	abîme
 coral	,	le	,	corail

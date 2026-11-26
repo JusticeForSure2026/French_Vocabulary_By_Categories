@@ -1,7 +1,6 @@
 ﻿inorganic matter	,	la	,	matière inorganique
 compound	,	le	,	composé
 catalyst	,	le	,	catalyseur
-krystal	,	le	,	cristal
 metal	,	le	,	métal
 alloy	,	le	,	alliage
 iron	,	le	,	fer
@@ -20,6 +19,7 @@ chlorine	,	le	,	chlore
 sulfur	,	le	,	soufre
 phosphorus	,	le	,	phosphorus
 iodine	,	le	,	iode
+arsenic	,	le	,	arsenic
 silicon	,	le	,	silicium
 diamond	,	le	,	diamant
 gas	,	le	,	gaz
@@ -29,3 +29,6 @@ chlorine	,	le	,	chlore
 carbon dioxide	,	le	,	gaz carbonique
 ether	,	le	,	éther
 wax	,	la	,	cire
+krystal	,	le	,	cristal
+quartz	,	le	,	quartz
+amber	,	le	,	ambre

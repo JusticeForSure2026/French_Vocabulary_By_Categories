@@ -1,9 +1,16 @@
 ﻿sidewalk	,	le	,	trottoir
 pavement	,	la	,	chaussée
 highway	,	la	,	autoroute
+bend	,	le	,	virage
+crossroad	,	le	,	croisement
+intersection	,	la	,	intersection
+junction	,	le	,	embranchement
 construction site	,	le	,	chantier
+scaffolding	,	le	,	échafaudage
 tunnel	,	le	,	tunnel
 bridge	,	le	,	pont
+drawbridge	,	le	,	pont-levis
+pontoon	,	le	,	ponton
 skyscraper	,	le	,	gratte-ciel
 canteen	,	la	,	cantine
 restaurant	,	le	,	restaurant
@@ -17,6 +24,7 @@ shop	,	le	,	magasin
 grocery	,	la	,	épicerie
 bazaar	,	le	,	bazar
 supermarket	,	le	,	supermarché
+mill	,	la	,	filature
 factory	,	la	,	usine
 chimney	,	la	,	cheminée
 sewer	,	le	,	égout
@@ -40,7 +48,7 @@ museum	,	le	,	musée
 gallery	,	la	,	galerie
 train station	,	la	,	gare
 lighthouse	,	le	,	phare
-pier	,	la	,	jetée
+pier	,	le	,	embarcadère
 ferry	,	le	,	ferry
 harbor	,	le	,	port
 airport	,	le	,	aéroport

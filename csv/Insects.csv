@@ -1,8 +1,11 @@
 ﻿ant	,	la	,	fourmi
 bee	,	la	,	abeille
 wasp	,	la	,	guêpe
+bumblebee	,	le	,	bourdon
+hornet	,	le	,	frelon
 butterfly	,	le	,	papillon
 dragonfly	,	la	,	libellule
+firefly	,	la	,	luciole
 beetle	,	le	,	scarabée
 mantis	,	la	,	mante
 spider	,	la	,	araignée
@@ -14,5 +17,5 @@ centipede	,	le	,	mille-pattes
 scorpion	,	le	,	scorpion
 caterpillar	,	la	,	chenille
 fly	,	la	,	mouche
+maggot	,	le	,	asticot
 mosquito	,	la	,	moustique
-snail	,	le	,	escargot

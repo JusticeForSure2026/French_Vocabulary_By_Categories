@@ -1,6 +1,7 @@
 ﻿apartment	,	le	,	appartement
 villa	,	la	,	villa
 basement	,	le	,	sous-sol
+storeroom	,	le	,	cellier
 shed	,	le	,	hangar
 shack	,	la	,	baraque
 stair	,	le	,	escalier
@@ -20,18 +21,21 @@ bedroom	,	la	,	chambre
 living room	,	le	,	salon
 bathroom	,	la	,	salle de bains
 bathtub	,	la	,	baignoire
+shower head	,	le	,	pommeau
 toilet	,	la	,	toilette
 faucet	,	le	,	robinet
 shower	,	la	,	douche
 kitchen	,	la	,	cuisine
 oven	,	le	,	four
 fridge	,	le	,	réfrigérateur
+pantry	,	le	,	garde-manger
 appliance	,	le	,	appareil
 fence	,	la	,	clôture
 balcony	,	le	,	balcon
 terrace	,	la	,	terrasse
 fireplace	,	la	,	cheminée
 hearth	,	le	,	foyer
+alcove	,	la	,	alcôve
 yard	,	la	,	cour
 garage	,	le	,	garage
 furniture	,	le	,	meuble
@@ -61,6 +65,7 @@ bed	,	le	,	lit
 sheet	,	le	,	drap
 mattress	,	le	,	matelas
 pillow	,	le	,	oreiller
+pillowcase	,	la	,	taie
 quilt	,	le	,	édredon
 blanket	,	la	,	couverture
 duvet	,	la	,	couette

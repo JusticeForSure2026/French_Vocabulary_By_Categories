@@ -1,12 +1,16 @@
-﻿coffee	,	le	,	café
+﻿beverage	,	le	,	breuvage
+coffee	,	le	,	café
 tea	,	le	,	thé
 fruit juice	,	le	,	jus de fruits
+soda	,	la	,	soude
 water	,	la	,	eau
 beer	,	la	,	bière
 alcohol	,	le	,	alcool
 wine	,	le	,	vin
 champagne	,	le	,	champagne
 cider	,	le	,	cidre
+vodka	,	la	,	vodka
+whisky	,	le	,	whisky
 yogurt	,	le	,	yaourt
 milk	,	le	,	lait
 honey	,	le	,	miel

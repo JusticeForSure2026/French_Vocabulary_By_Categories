@@ -12,6 +12,7 @@ brick	,	la	,	brique
 cement	,	le	,	ciment
 concrete	,	le	,	béton
 shovel	,	la	,	pelle
+strap	,	la	,	sangle
 rope	,	la	,	corde
 ladder	,	la	,	échelle
 hose	,	le	,	tuyau
@@ -26,6 +27,7 @@ saw	,		,	scie
 hammer	,	le	,	marteau
 drill	,	la	,	perceuse
 gear	,	le	,	engrenage
+pincer	,	la	,	tenaille
 wrench	,	la	,	clé à molette
 screwdriver	,	le	,	tournevis
 screw	,	la	,	vis de fixation
